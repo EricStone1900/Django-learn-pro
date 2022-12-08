@@ -2,7 +2,7 @@ appdirs==1.4.3
 asn1crypto==0.24.0
 astroid==2.2.5
 bottle==0.12.16
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.2
 chardet==3.0.4
 coverage==4.5.3
